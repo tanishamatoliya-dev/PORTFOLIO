@@ -1,0 +1,78 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Length 4159 >>
+stream
+BT /F1 22 Tf 1 0 0 1 50 740 Tm (TANISHA MATOLIYA) Tj ET
+BT /F2 10 Tf 1 0 0 1 50 722 Tm (Computer Science Engineering Undergraduate  |  Indore / Ratlam, MP, India) Tj ET
+BT /F2 10 Tf 1 0 0 1 50 708 Tm (Phone: +91 7000796315  |  Email: tanishamatoliya@gmail.com) Tj ET
+BT /F2 10 Tf 1 0 0 1 50 694 Tm (LinkedIn: linkedin.com/in/tanisha-matoliya  |  GitHub: github.com/tanishamatoliya) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 668 Tm (EDUCATION) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 652 Tm (Prestige Institute of Engineering Management and Research \(PIEMR\) - Indore, MP) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 638 Tm (Bachelor of Technology \(B.Tech\) - Computer Science & Engineering \(2025 - 2029 Expected\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 626 Tm (Academic Record: CGPA 8.40 / 10.0 | Sem I: 7.90 SGPA | Sem II: 8.90 SGPA) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 608 Tm (Jawahar Navodaya Vidyalaya \(JNV\), Kalukheda - Ratlam, MP) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 594 Tm (Senior Secondary \(Class XII - CBSE, 2024-2025\): 75.0% \(Science - PCM\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 582 Tm (Secondary School Certificate \(Class X - CBSE, 2022-2023\): 81.0%) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 556 Tm (TECHNICAL SKILLS & CORE COMPETENCIES) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 540 Tm (- Programming: Python, C, C++, JavaScript \(Basics\), Java \(Basics\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 528 Tm (- Web Technologies: HTML5, CSS3, Modern UI Layouts, Responsive Design, MERN Stack \(React, Node, Express, MongoDB\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 516 Tm (- AI / ML: Machine Learning Fundamentals, Prompt Engineering, Linear Algebra, Probability & Statistics) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 504 Tm (- Developer Tools: VS Code, Git, GitHub, MATLAB Workbench, Antigravity, Google Cloud) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 492 Tm (- Core CS: OOP, Data Structures & Algorithms \(Basics\), Software Design Principles) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 466 Tm (ACADEMIC & PERSONAL PROJECTS) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 450 Tm (1. AgreeSense - Smart Agricultural Intelligence System \(Python, ML, Data Analytics\)) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 436 Tm (2. DoctorAI - Intelligent Healthcare Diagnostic Platform \(Python, Medical Datasets, NLP\)) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 422 Tm (3. Sahayni.AI - Creative Natural Language Generation Engine \(Generative AI, NLP, Python\)) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 408 Tm (4. Unloop - Mental Health & Therapy Booking Platform \(MERN Stack: React, Node, Express, MongoDB\)) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 394 Tm (5. Lumabuds - Modern E-Commerce Web Store \(HTML5, CSS3, JavaScript, Responsive UI\)) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 380 Tm (6. Movie & Weather Search - Real-Time Utility Apps \(JavaScript ES6+, REST APIs, CSS3\)) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 366 Tm (7. Personal Web Development Portfolio & Interactive Web Apps \(HTML5, CSS3, JS, Git\)) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 340 Tm (HACKATHONS & TECHNICAL EVENTS) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 324 Tm (- Sustainability Hackathon - IIT Bombay) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 312 Tm (- HackXcelerate - Google Cloud College Hackathon) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 300 Tm (- AI Manthan Hackathon - Bilingual GenAI Concept \(Sahayni.AI\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 288 Tm (- Smart India Hackathon \(SIH\) - Innovation Competition) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 262 Tm (KEY CERTIFICATIONS) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 246 Tm (- Mathematical & Statistical Foundations for Machine Learning \(Infosys Springboard\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 234 Tm (- Innovating with Google Cloud AI \(Google Cloud x Simplilearn SkillUp\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 222 Tm (- Prompt Engineering with GitHub Copilot \(Microsoft x Simplilearn SkillUp\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 210 Tm (- SQL Analytics & BI on Databricks \(Databricks x Simplilearn\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 198 Tm (- MATLAB Foundational Badges & ML Onramp \(MathWorks\) | Full MERN Stack \(Unstop\)) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 172 Tm (LANGUAGES & STRENGTHS) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 156 Tm (- Languages: English \(Professional\), Hindi \(Native\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 50 144 Tm (- Strengths: Rapid Technological Adaptability, Analytical Problem Solving, Collaborative Team Player) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000261 00000 n 
+0000000336 00000 n 
+0000000406 00000 n 
+0000000481 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4692
+%%EOF

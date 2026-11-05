@@ -1,11 +1,28 @@
-<div align="center">
+# Tanisha Matoliya - Personal Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Personal portfolio web application for **Tanisha Matoliya**, Computer Science Engineering undergraduate at Prestige Institute of Engineering Management and Research (PIEMR), Indore.
 
-  <h1>Built with AI Studio</h2>
+## Technologies Used
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features Ported
+- **Home**: Welcome introduction, core interests, career goals, and learning philosophy.
+- **About**: Detailed biography, education history (PIEMR & JNV), interest focus areas, learning journey narrative, strengths, and future aspirations.
+- **Skills**: Comprehensive categorized skill sections including Programming Languages, Web Technologies, AI & Machine Learning, Developer Tools & IDEs, Core Computer Science concepts, and Personal Strengths.
+- **Projects & Hackathons**: Key project showcases (AgreeSense, DoctorAI, Sahayni.AI, Web Development Portfolio) with architectural highlights and technology stacks, along with hackathon participations (Smart India Hackathon, AI Manthan, HackXcelerate).
+- **Contact**: Contact information, direct email access, LinkedIn & GitHub profiles, spoken languages, and closing message.
+- **Theme Fidelity**: Faithful preservation of original color palettes per section (`#cfaac7`, `#d6bae7`, `#bdc0d8`, `#bcd5db`, `#acc5b3`) and typography (`Arial, sans-serif`).
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Development
+Run the development server:
+```bash
+npm run dev
+```
 
-</div>
+Build for production:
+```bash
+npm run build
+```
